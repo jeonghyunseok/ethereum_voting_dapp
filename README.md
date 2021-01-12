@@ -1,2 +1,2 @@
-# ethereum_voting_dapp
+# 😎 ethereum_voting_dapp
 blockchain first study ethereum voting dapp
